@@ -2,22 +2,6 @@
 
 This repository collects **assignments and mini-projects from my university courses** in data science, machine learning, and analytics. Each folder entry is a self-contained notebook or script: exploratory analysis, models, and sometimes dashboards or pipelines tied to real (or realistic) datasets.
 
-```mermaid
-flowchart LR
-  subgraph themes [What you will find here]
-    A[Clustering & anomaly detection]
-    B[NLP & sentiment]
-    C[Big data & pipelines]
-    D[Regression & forecasting]
-    E[Visualization & BI]
-  end
-  A --> Net[Network firewall logs]
-  B --> Rev[Hotel reviews]
-  C --> Mongo[Dask / MongoDB]
-  D --> Fire[Weather & wildfire risk]
-  E --> Asy[Asylum seekers — Tableau]
-```
-
 ---
 
 ## Projects at a glance
